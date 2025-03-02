@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import os
 from io import BytesIO
-import openpyxl as xl # Add this line
+
 
 st.set_page_config(page_title="Data Sweeper", page_icon=":bar_chart:", layout="wide")
 st.title("Data Sweeper")
